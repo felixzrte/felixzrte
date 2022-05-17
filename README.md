@@ -2,7 +2,7 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=felixzrte&show_icons=true&theme=github_dark"/>
-  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixzrte&layout=compact)"/>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixzrte&layout=compact)"/>
 </div>
 
 <div>
